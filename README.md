@@ -30,8 +30,8 @@ AI_Powered_Resume_Screening_System/
 ### Step 1: Clone the Repository
 Open your terminal or command prompt and run:
 ```sh
-git clone https://github.com/SpicychieF05/AI_Powered_Resume_Screening_System.git
-cd AI_Powered_Resume_Screening_System
+git clone https://github.com/SpicychieF05/AI_Resume_Screening_System.git
+cd AI_Resume_Screening_System
 ```
 
 ### Step 2: Create a Virtual Environment (Recommended)
