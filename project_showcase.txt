@@ -1,5 +1,7 @@
 # AI Powered Resume Screening System - Project Showcase 🎥  
 
+[![Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1067785153/809ebbfd88?ts=0&share=copy)  
+
 Watch the project demonstration here:  
 🔗 [Project Showcase Video](https://vimeo.com/1067785153/809ebbfd88?ts=0&share=copy)  
 
