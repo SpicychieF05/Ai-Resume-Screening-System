@@ -1,0 +1,6 @@
+# AI Powered Resume Screening System - Project Showcase 🎥  
+
+Watch the project demonstration here:  
+🔗 [Project Showcase Video](https://vimeo.com/1067785153/809ebbfd88?ts=0&share=copy)  
+
+This video provides an overview of the **AI Powered Resume Screening System**, showcasing its features, functionality, and how it helps in resume screening using **NLP and Machine Learning**. 🚀  
