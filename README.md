@@ -1,7 +1,3 @@
-Here is your updated README file with `app.py` replaced by `system.py`:  
-
----
-
 # AI Powered Resume Screening System  
 
 ## 📌 Project Name:  
